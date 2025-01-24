@@ -1,0 +1,2 @@
+Good job.
+Note: The app crashes when tapping delete without selecting a city. Better to have a check to confirm an item is selected.
